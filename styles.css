@@ -1,13 +1,13 @@
 body{
     background:rgb(231, 224, 224);
-    font-family:helvetica;
+    font-family:helvetica-arial;
      
   }
 
   #container{
       width:50px;
       margin:5px;
-      border:1px solid gray;
+      border:5px;:solid gray;
 
       display:grid;
       place-items:center;
