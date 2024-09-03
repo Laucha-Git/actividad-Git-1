@@ -1,20 +1,24 @@
+{*margin:0px; padding:0px;}
+
 body{
     background:rgb(231, 224, 224);
-    font-family:helvetica-arial;
-     
-  }
+    font font-family:arial,helvetica,sans-serif;
+   
 
-  #container{
-      width:50px;
-      margin:5px;
-      border:5px;:solid gray;
+} 
 
-      display:grid;
-      place-items:center;
-      
-      
-      
-  }
+.main{
+  display: flex;
+  flex-direction: column ;
+  
+}
+
+
+.form{
+  text-align: center;
+  align-items: center;
+}
+ 
     
 
 
